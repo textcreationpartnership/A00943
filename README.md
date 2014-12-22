@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A straunge and terrible Wunder wrought very late in the parish Church of Bongay, a Tovvn of no great
+
 1. The Preface to the Reader.
 
 #####Body#####
@@ -77,49 +77,42 @@ There are 4 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|8||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|2||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|8||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|2||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__back__|1||
-|2.|__body__|1||
-|3.|__closer__|1||
-|4.|__desc__|4||
-|5.|__div__|5| @__type__ (5) : title_page (1), to_the_reader (1), text (1), prayer (1), colophon (1)|
-|6.|__figure__|1||
-|7.|__front__|1||
-|8.|__g__|95| @__ref__ (95) : char:EOLhyphen (69), char:cmbAbbrStroke (20), char:EOLunhyphen (6)|
-|9.|__gap__|4| @__reason__ (4) : duplicate (4)  •  @__extent__ (4) : 1 page (4)|
-|10.|__head__|3||
-|11.|__hi__|22| @__rend__ (10) : sup (10)|
-|12.|__p__|27||
-|13.|__pb__|22| @__facs__ (22) : tcp:20334:1 (2), tcp:20334:2 (2), tcp:20334:3 (2), tcp:20334:4 (2), tcp:20334:5 (2), tcp:20334:6 (2), tcp:20334:7 (2), tcp:20334:8 (2), tcp:20334:9 (2), tcp:20334:10 (2), tcp:20334:11 (2)  •  @__rendition__ (1) : simple:additions (1)|
-|14.|__seg__|3| @__rend__ (3) : decorInit (3)|
+|1.|__closer__|1||
+|2.|__desc__|4||
+|3.|__div__|5| @__type__ (5) : title_page (1), to_the_reader (1), text (1), prayer (1), colophon (1)|
+|4.|__figure__|1||
+|5.|__g__|95| @__ref__ (95) : char:EOLhyphen (69), char:cmbAbbrStroke (20), char:EOLunhyphen (6)|
+|6.|__gap__|4| @__reason__ (4) : duplicate (4)  •  @__extent__ (4) : 1 page (4)|
+|7.|__head__|3||
+|8.|__hi__|22| @__rend__ (10) : sup (10)|
+|9.|__p__|27||
+|10.|__pb__|22| @__facs__ (22) : tcp:20334:1 (2), tcp:20334:2 (2), tcp:20334:3 (2), tcp:20334:4 (2), tcp:20334:5 (2), tcp:20334:6 (2), tcp:20334:7 (2), tcp:20334:8 (2), tcp:20334:9 (2), tcp:20334:10 (2), tcp:20334:11 (2)  •  @__rendition__ (1) : simple:additions (1)|
+|11.|__seg__|3| @__rend__ (3) : decorInit (3)|
